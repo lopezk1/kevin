@@ -1,4 +1,4 @@
-﻿Time;Frequency ;CurrentA ;CurrentB;CurrentC;VoltageAB;VoltageBC;VoltageCA;Activepower;ApparentpowerVA;ActiveenergydeliveredWh;Humidity;Temperature;;
+﻿Time;Frequency;CurrentA;CurrentB;CurrentC;VoltageAB;VoltageBC;VoltageCA;Activepower;ApparentpowerVA;ActiveenergydeliveredWh;Humidity;Temperature;;
 2021-04-02T00:30:00Z;60,02;14,8;30,85;22,48;231,18;229,64;230,28;8445,28;9031,37;2602;66,21;28,51;;
 2021-04-02T00:45:00Z;60,02;15,61;31,05;23,66;231,11;229,61;230,39;8714,53;9323,31;2618;65,81;28,45;;
 2021-04-02T01:00:00Z;59,95;15,34;32,58;27,35;229,4;228,11;228,65;9201,4;9906;2627;65,78;28,4;;
